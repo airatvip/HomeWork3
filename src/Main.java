@@ -115,11 +115,11 @@ public class Main {
         float averageWagesForTheYearDenis = wagesDenis * 12;
         float averageWagesForTheYearKristina = wagesKristina * 12;
                 System.out.println( " Маша теперь получает " + newWagesMashaForTheYear + " рублей в год. Годовой доход вырос на " +
-                ( newWagesMashaForTheYear - averageWagesForTheYearMasha ) + " рублей ");
+                ( newWagesMashaForTheYear - averageWagesForTheYearMasha ) + " рублей. ");
         System.out.println( " Маша теперь получает " + newWagesDenisForTheYear + " рублей в год. Годовой доход вырос на " +
-                ( newWagesDenisForTheYear - averageWagesForTheYearDenis ) + " рублей ");
+                ( newWagesDenisForTheYear - averageWagesForTheYearDenis ) + " рублей. ");
         System.out.println( " Маша теперь получает " + newWagesKristinaForTheYear + " рублей в год. Годовой доход вырос на " +
-                ( newWagesKristinaForTheYear - averageWagesForTheYearKristina ) + " рублей ");
+                ( newWagesKristinaForTheYear - averageWagesForTheYearKristina ) + " рублей. ");
 
 
 
